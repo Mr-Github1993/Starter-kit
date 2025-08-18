@@ -1,5 +1,5 @@
 """
-starter-kit
+starter-ki
 ------------
 
 A minimal single-file GitHub-ready Python project.
